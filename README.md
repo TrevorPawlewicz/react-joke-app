@@ -4,7 +4,7 @@ using: https://icanhazdadjoke.com/ and create-reat-app ![create-react-app](src/i
 
 ![alt text][logo]
 
-[logo]: src/images/google-logo.png "Google: Dad Joke Edition"
+[logo]: src/images/google-logo-smaller.png "Google: Dad Joke Edition"
 
 
 1. Call Search Joke endpoint and store results
